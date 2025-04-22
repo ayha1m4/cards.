@@ -36,7 +36,7 @@ body{
   font-weight: bold;
   }
 
-  #btool{
+  #batoul{
     color: red;
     font-size: 2em;
     font-weight: bold;
@@ -44,6 +44,18 @@ body{
 
   #ziad{
     color: blue;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  #ilham{
+    color: brown;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  #selina{
+    color: #D69ADE;
     font-size: 2em;
     font-weight: bold;
   }
