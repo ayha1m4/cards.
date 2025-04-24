@@ -55,21 +55,29 @@ body{
     font-weight: bold;
   }
 
+#skndr{
+    color: #594100;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+
   #selina{
     color: #D69ADE;
     font-size: 2em;
     font-weight: bold;
   }
 
-  @media (max-width: 600px) {
-    .container{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: repeat(3, 1fr);
-      grid-template-columns: 1fr;
-        grid-template-rows: repeat(3, 1fr);
-        gap: 2em;
-        padding: 2em;
-        max-width: 1200px;
-        margin: auto;
-    }
+
+  #hala{
+    color: #940909;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+
+#leo{
+    color: grey;
+    font-size: 2em;
+    font-weight: bold;
+  }
